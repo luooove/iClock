@@ -1,0 +1,23 @@
+////////////////////////////////////////////////////////////////////////////////
+// Company:
+// Engineer:
+//
+// Create Date:    2015-1-23
+// Design Name:   
+// Module Name:    
+// Project Name:  
+// Target Device: 
+// Tool versions: 
+// Description:
+// generate 1 second.
+
+// Dependencies:
+//
+// Revision:
+// Revision 0.01 - File Created
+// Additional Comments:
+//
+////////////////////////////////////////////////////////////////////////////////
+module OneSecond();
+
+endmodule
